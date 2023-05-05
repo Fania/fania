@@ -1,1 +1,4 @@
-![order 8 magic squares](https://raw.githubusercontent.com/Fania/fania/master/row8.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fania/fania/master/row8dark.png">
+  <img src="https://raw.githubusercontent.com/Fania/fania/master/row8.png" alt="order 8 magic squares">
+</picture>
